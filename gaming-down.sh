@@ -2,6 +2,11 @@
 
 set -e
 
+if [ ! -f conf.sh ]; then
+  echo "Could not find conf.sh file. Rename and fill out conf.sample.sh, then try again."
+  exit 1
+fi
+
 # import the configuration.
 source conf.sh
 
