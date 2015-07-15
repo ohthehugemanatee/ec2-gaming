@@ -1,5 +1,5 @@
 # ec2-gaming
-Start and stop scripts handy for Steam gaming on EC2, per "Larry Land's excellent post":http://lg.io/2015/07/05/revised-and-much-faster-run-your-own-highend-cloud-gaming-service-on-ec2.html .
+Start and stop scripts handy for Steam gaming on EC2, per [Larry Land's excellent post](http://lg.io/2015/07/05/revised-and-much-faster-run-your-own-highend-cloud-gaming-service-on-ec2.html).
 
 # Starting/Stopping the instance.
 
